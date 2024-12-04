@@ -4,7 +4,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ## Link
 
-- **Live Site URL: [Article Preview Component]()**
+- **Live Site URL: [Article Preview Component](https://article-prev-component.netlify.app/)**
 
 ### Built with
 
